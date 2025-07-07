@@ -1,0 +1,17 @@
+﻿  Speedometr.cpp
+  SpeedometrArray.cpp
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(35,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(88,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(111,9): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(111,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(113,14): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\SpeedometrArray.cpp(113,28): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\SKOOMAN\source\repos\Laba 4\Laba 4\Speedometr.cpp(170): warning C4715: Speedometr::isOverScale: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba 4.vcxproj -> C:\Users\SKOOMAN\source\repos\Laba 4\Debug\Laba 4.exe
